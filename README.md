@@ -7,11 +7,17 @@ First, the program should prompt the user to enter data about the books. The dat
 
 
 Book title (possibly containing white space characters)
+
 Author's name (possibly containing white space characters)
+
 Book stock number (1 – 10000; assume no duplicates)
+
 Wholesale price in dollars (a floating point value)
+
 Retail price in dollars (a floating point value)
+
 Wholesale quantity purchased by bookstore (a whole number greater than zero)
+
 Retail quantity purchased by customers (a whole number greater than zero)
 
 
