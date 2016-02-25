@@ -31,32 +31,24 @@ repeatedly prompt the user to select from the following options for processing o
 
 1. Determine and print total revenue (from all books)
 
-
 2. Determine and print total wholesale cost (for all books)
-
 
 3. Determine and print total profit (for all books: this is total revenue minus total wholesale cost)
 
-
 4. Determine and print total number of books sold for all books
 
-
 5. Determine and print average profit per sale (total profit divided by total number of sales)
-
 
 6. Print book list (print Book list: on one line, preceded by a blank line, then the names of all books,
 each on a separate line, in order of increasing stock number, with the last book followed by a
 single blank line)
 
-
 7. Add book (prompt the user to enter the book data, in the format given above): this should add a
 single book to the initial list, after it is built as described above
-
 
 8. Delete book (prompt the user to enter the book stock number: if the book stock number is not
 found in the linked list, print a message indicating an error; if the list is empty, print a distinct
 message indicating this error)
-
 
 9. Exit the program
 
